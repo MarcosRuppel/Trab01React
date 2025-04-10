@@ -3,6 +3,10 @@
 Este projeto é um sistema web completo para cadastro, listagem, edição e visualização de usuários.  
 Desenvolvido com **React** no frontend, **Node.js + Express** no backend, e **MySQL** como banco de dados.
 
+## ✍️ Autor do Projeto
+
+**Marcos Paulo Ruppel** - Bacharelado em Ciência da Computação - PUCPR 2025
+
 ## Tecnologias utilizadas
 
 - React + Tailwind CSS
@@ -88,12 +92,6 @@ pnpm dev
 - Remoção de usuários
 - Uso de avatar padrão se nenhum for fornecido
 - Validações com Zod
-
----
-
-## ✍️ Autor do Projeto
-
-**Marcos Paulo Ruppel** - Bacharelado em Ciência da Computação - PUCPR 2025
 
 ---
 
