@@ -52,9 +52,9 @@ pnpm install
 
 3. **Configure o banco de dados**
 
-- Crie um banco no MySQL.
-- Importe o arquivo SQL:  
-  `backend/drizzle/0000_famous_terrax.sql`
+- Inicie um banco de dados MySQL.
+- Importe e execute o arquivo SQL:  
+  `backend/criar_bd.sql`
 
 4. **Configure as variáveis de ambiente**
 

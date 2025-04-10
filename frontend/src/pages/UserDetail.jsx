@@ -120,7 +120,7 @@ const UserDetail = () => {
       <div className="bg-white shadow-md rounded-lg overflow-hidden">
         <div className="p-6">
           {/* Cabeçalho com título e botões de ação */}
-          <div className="flex justify-between items-center mb-6">
+          <div className="flex justify-between items-center mb-6 text-indigo-800">
             <h1 className="text-2xl font-bold">Detalhes do Usuário</h1>
             <div className="flex space-x-2">
               {/* Botão para editar usuário */}

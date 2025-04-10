@@ -98,7 +98,7 @@ const UserForm = () => {
 
       // Se o campo avatar estiver vazio ou for apenas espaços, definir a URL padrão
       if (!data.avatar || data.avatar.trim() === '') {
-      data.avatar = 'https://avatar.iran.liara.run/public';
+      data.avatar = `https://ui-avatars.com/api/?name=${data.name.replace(" ",'+')}`;
       }
       
       // Lógica diferente para edição ou criação
