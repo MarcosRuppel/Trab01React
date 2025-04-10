@@ -22,7 +22,7 @@ Desenvolvido com **React** no frontend, **Node.js + Express** no backend, e **My
 ## 📁 Estrutura do Projeto
 
 ```
-marcos/
+Trab01React/
 ├── backend/
 ├── frontend/
 ├── docker-compose.yml
@@ -37,7 +37,7 @@ marcos/
 
 ```bash
 git clone https://github.com/MarcosRuppel/Trab01React.git
-cd trabalho01
+cd Trab01React
 ```
 
 2. **Instale as dependências**
